@@ -1,43 +1,77 @@
-Create a highly realistic **cinematic character reference sheet** of a **20-year-old Indian woman**, designed specifically to be used as a consistent character reference for AI video generation.
+Create a highly realistic **cinematic character reference sheet** of one specific **20-year-old Indian woman**, designed specifically as a master reference for consistent AI video generation.
 
-She is naturally beautiful, elegant, youthful, and realistic, with authentic Indian features. She has a warm medium-brown Indian skin tone, expressive dark brown almond-shaped eyes, naturally shaped eyebrows, a straight proportional nose, naturally full lips, an oval face, soft cheekbones, and a subtle natural smile.
+She is naturally beautiful, elegant, youthful, and realistic, with authentic Indian features. She has a **fair to light-medium Indian skin tone with warm golden undertones**, an even healthy complexion, subtle natural skin texture, and a soft natural glow. Her complexion should look naturally fair, not extremely pale or artificially lightened.
 
-She has long, thick, naturally black hair with a realistic hairline and soft natural texture. Her appearance should be attractive but **natural and believable**, without exaggerated makeup or unrealistic beauty-filter effects.
+She has expressive dark-brown almond-shaped eyes, naturally shaped eyebrows, a straight proportional nose, naturally full lips, an oval face, soft cheekbones, and a subtle natural smile.
 
-She has a healthy, natural young-adult body with realistic proportions and graceful posture.
+She has long, thick, naturally black hair with a realistic hairline and soft natural texture. Her appearance should be attractive but natural and believable, with light, tasteful makeup.
 
-Dress her in a **simple elegant Indian salwar kameez**, with subtle traditional detailing and natural colors. Minimal jewelry: small earrings and a simple bracelet. No heavy makeup.
+### CHARACTER IDENTITY LOCK
 
-### Character Turnaround
+This is **ONE SINGLE CHARACTER** appearing in every image and outfit.
 
-Show the **exact same woman** in one professional character model sheet containing:
+Maintain exactly the same:
 
-1. Front-facing portrait
-2. 3/4 left view
-3. Left profile
-4. 3/4 right view
-5. Right profile
-6. Back view
-7. Full-body front view
-8. Full-body side view
+* Facial identity and facial geometry
+* Face shape and jawline
+* Eyes, eyebrows, nose and lips
+* Skin tone and complexion
+* Hairstyle and hairline
+* Height and body proportions
+* Age and overall appearance
 
-Maintain **perfect character identity consistency across every angle**.
+**Changing the outfit must never change the character.**
 
-Her face must remain identical in every view:
+### OUTFIT VARIATIONS
 
-* Same face shape
-* Same eyes and eye spacing
-* Same eyebrows
-* Same nose
-* Same lips
-* Same jawline
-* Same skin tone
-* Same hairstyle and hairline
-* Same age and body proportions
-* Same clothing and jewelry
+Show the same woman wearing three different types of clothing:
 
-Use consistent neutral studio lighting, realistic skin texture, physically accurate shadows, and a clean neutral background. Use the same camera height and focal length for all views. Avoid wide-angle distortion.
+**1. Traditional Indian Dress**
 
-**CRITICAL CHARACTER IDENTITY LOCK:** This is ONE specific individual, not eight different interpretations. Do not change her facial features, hairstyle, body proportions, age, skin tone, clothing, or accessories between views.
+* Elegant Indian salwar kameez / churidar
+* Tasteful traditional patterns
+* Simple matching dupatta
+* Small elegant earrings
+* Minimal jewelry
+* Natural, graceful appearance
 
-Photorealistic, cinematic quality, natural Indian beauty, realistic anatomy, highly detailed face, realistic eyes and hair, subtle skin imperfections, professional film character turnaround sheet, suitable as a **master reference image for AI video generation**.
+**2. Saree**
+
+* Elegant Indian saree with a modern, sophisticated drape
+* Tasteful blouse design
+* Simple earrings and minimal jewelry
+* Natural hairstyle
+* Graceful and realistic appearance
+* Avoid overly elaborate bridal styling
+
+**3. Western Dress**
+
+* Elegant, modest contemporary western outfit
+* Stylish knee-length or midi dress / tasteful top and trousers
+* Sophisticated and youthful
+* Decent, non-revealing design
+* Minimal accessories
+* Natural makeup
+
+The three outfits should clearly look different, but **the woman herself must remain unmistakably identical**.
+
+### CHARACTER TURNAROUND
+
+For the master reference, show the same character from multiple angles:
+
+* Front view
+* 3/4 left view
+* Left profile
+* 3/4 right view
+* Right profile
+* Back view
+* Full-body front
+* Full-body side
+
+Use the same woman, with consistent facial identity and body proportions across every angle and outfit.
+
+Use neutral cinematic studio lighting, realistic skin texture, physically accurate shadows, consistent camera height, and a clean neutral background. Avoid wide-angle distortion.
+
+**CRITICAL:** Do not generate different-looking women. Do not change facial features, skin tone, hairstyle, age, height, body proportions, or facial expression characteristics between outfits or camera angles.
+
+Photorealistic, cinematic quality, realistic Indian beauty, natural anatomy, highly detailed face, realistic eyes and hair, subtle skin imperfections, professional film character design sheet, **master reference suitable for AI video generation and character consistency across future scenes**.
